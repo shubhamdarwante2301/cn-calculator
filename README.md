@@ -2,9 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted Once
+
+github, netlify
+
+Live link: [https://cncalculator.netlify.app/](https://cncalculator.netlify.app/)
+
+github repo: [https://github.com/shubhamdarwante2301](https://github.com/shubhamdarwante2301/cn-calculator)
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+## All functionality
+
+This calculator can performe mathematical operation like Addition, Substraction, Multiplication and Division.
 
 ### `npm start`
 
