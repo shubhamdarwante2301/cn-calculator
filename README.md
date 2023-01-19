@@ -10,13 +10,14 @@ Live link: [https://cncalculator.netlify.app/](https://cncalculator.netlify.app/
 
 github repo: [https://github.com/shubhamdarwante2301](https://github.com/shubhamdarwante2301/cn-calculator)
 
+## All functionality
+
+This calculator can performe mathematical operation like Addition, Substraction, Multiplication and Division.
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-## All functionality
-
-This calculator can performe mathematical operation like Addition, Substraction, Multiplication and Division.
 
 ### `npm start`
 
